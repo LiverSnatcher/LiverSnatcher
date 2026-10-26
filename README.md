@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="280" src="./Decorations/deco_noël.webp"/></p>
+<p align="center"><img align="center" width="280" src="./Decorations/deco_noël_top.avil"/></p>
 
 <h3 align="center"> Data analyst / Data engineer</h3>
 
