@@ -1,12 +1,12 @@
-<p align="center"><img align="center" width="280" src="./Decorations/deco_noël_top.avil"/></p>
-
 <h3 align="center"> Data analyst / Data engineer</h3>
 
 Étudiant Data & IA en seconde année avec une bonne maîtrise de python.<br>
 
 J'aime bien bien tester de nouveaux logiciels et environnements 😄 <br>
 
-Je travaille actuellement sur Python, HTML/CSS, n8n, 
+Je travaille actuellement avec Python, HTML/CSS, n8n, Flask, Tableau, PowerBI, SQL et Excel<br><br>
+
+Je suis passionné de robotique et aime lire des bandes dessinés.
 <!--
 **LiverSnatcher/LiverSnatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
