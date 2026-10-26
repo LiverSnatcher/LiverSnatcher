@@ -4,7 +4,9 @@
 
 Étudiant Data & IA en seconde année avec une bonne maîtrise de python.<br>
 
-J'aime bien bien tester de nouveaux logiciels et environnements 😄
+J'aime bien bien tester de nouveaux logiciels et environnements 😄 <br>
+
+Je travaille actuellement sur Python, HTML/CSS, n8n, 
 <!--
 **LiverSnatcher/LiverSnatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
