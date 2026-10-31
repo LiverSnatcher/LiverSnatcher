@@ -1,8 +1,8 @@
-<h1 align="center">Salut, moi c'est Maxime 👋</h1>
+<h1 align="center">Bonjour, moi c'est Maxime</h1>
 <h3 align="center">Étudiant en 2e année Bachelor Data & IA | Data Analyst & Data Engineer</h3>
 
 <p align="center">
-  Curieux et touche-à-tout, j'aime explorer de nouveaux environnements techniques, automatiser des flux de données et concevoir des outils d'analyse.
+  Qualités: Curieux et touche-à-tout, je reste principalement intéressé par l'automatisation en tout genre.
 </p>
 
 ---
