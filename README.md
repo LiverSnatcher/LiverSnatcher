@@ -29,19 +29,11 @@
 
 ---
 
-### 🚀 Ce que je fais en ce moment
-- 📊 Développement de pipelines de données, dashboards interactifs et intégration d'API REST.
-- ⚙️ Automatisation de workflows avec **Python** et **n8n**.
-- 🖥️ Expérimentation sur de nouveaux logiciels, OS et architectures serveur.
-- 🤖 Passionné par la **robotique** et lecteur de **bandes dessinées / webtoons**.
+### Ce que je fais en ce moment
+- Développement de pipelines de données, dashboards interactifs et intégration d'API REST.
+- Automatisation de workflows avec **Python** et **n8n** en tout genre.
+- Recherches sur les serveurs locaux.
 
----
-
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiverSnatcher&layout=compact&theme=tokyonight" alt="Top Langages" />
-</p>
 <!--
 **LiverSnatcher/LiverSnatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
